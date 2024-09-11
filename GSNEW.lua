@@ -16,7 +16,7 @@ gg.alert("🎉Grim Soul V6.5.0 Updated Script🎉\n\n✅️[ADDED] Friendly UI\n
 
   ---ONLINE SCRIPT---
   
-ARCSCRIPT = gg.makeRequest('https://immortalarc.serveo.net/ARC.lua').content
+ARCSCRIPT = gg.makeRequest('https://github.com/Arcdevelopment0/Grim-soul-paid/blob/main/ARC.lua').content
 if not ARCSCRIPT then
 gg.alert('ERROR 552: You Are Offline⚠️\nOR\n❗You Did not Give Internet access')
 noselect()
