@@ -1,9 +1,9 @@
 <?php
 
 $Uname = "GSNEW.lua";  //Script Name
-$Url1 = "https://immortalarc.serveo.net/Register.php"; //Register.php Link
-$Url2 = "https://immortalarc.serveo.net/User.php"; //User.php Link
-$Url3 = "https://immortalarc.serveo.net/ActionManager.php"; //ActionManager.php Link
+$Url1 = "https://github.com/Arcdevelopment0/Grim-soul-paid/blob/main/Register.php"; //Register.php Link
+$Url2 = "https://github.com/Arcdevelopment0/Grim-soul-paid/blob/main/User.php"; //User.php Link
+$Url3 = "https://github.com/Arcdevelopment0/Grim-soul-paid/blob/main/ActionManager.php"; //ActionManager.php Link
 
 
 
